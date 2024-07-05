@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ibrahim Radwan - Academic Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ibrahim Radwan</h1>
+        <p>Associate Professor at University of Canberra</p>
+        <p>Canberra, ACT, Australia</p>
+        <p>Email: <a href="mailto:ibrahim.radwan@canberra.edu.au">ibrahim.radwan@canberra.edu.au</a></p>
+        <p>Website: <a href="https://ibrahim-radwan.github.io">https://ibrahim-radwan.github.io</a></p>
+        <p>Phone: (+61) 40-6559-248 | (+61) 26-2015-338</p>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I am an active researcher in fields of Computer Vision and Image Understanding. I am passionate about designing and developing systems that automatically learn to recognize and interact in complex environments. My work aims to automatically understand and analyze human behavior as part of AI and as a critical factor in reaching a digital evolution in computational modeling. With years of experience spanning academia and industry, I've excelled as an educator at various universities. As a teacher, I've imparted knowledge to Ph.D./MSc/B.S. students, cultivating the next generation of talent. Additionally, I've built and led research groups, exceeding expectations, and managing diverse professionals—software developers, interns, and research assistants. My expertise extends to conceiving, pitching, and delivering computer vision and machine learning projects to both corporate and government clients. I've contributed directly to product development across a spectrum of applications, leveraging my analytical skills. In the dual roles of teacher, researcher, and hands-on contributor, I consistently generate value and meaningful results in complex environments.</p>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <strong>Ph.D., Computer Vision</strong><br>
+                    School of Information Technology and Systems, The University of Canberra, Canberra, Australia (2011-2015)<br>
+                    Thesis Advisors: Dr. Roland Goecke, Dr. Girija Chetty, Dr. Michael Wagner<br>
+                    Thesis Title: Occlusion-aware: Robust Human Pose Estimation with Applications for Action Recognition
+                </li>
+                <li>
+                    <strong>M.Sc., Computer Science (High Distinction)</strong><br>
+                    Zagazig University, Sharkia State, Egypt (2007-2009)<br>
+                    Thesis Advisors: Dr. Ahmed Hussien Kamal, Dr. Ibrahim Elhenawy<br>
+                    Thesis Title: Bi-Clustering Gene Expression Data
+                </li>
+                <li>
+                    <strong>B.Sc., Computer Science (CGPA: 3.92/4.00)</strong><br>
+                    Faculty of Computers and Informatics, Zagazig University, Sharkia State, Egypt (2004-2008)
+                </li>
+            </ul>
+        </section>
+        <section id="current-position">
+            <h2>Current Position</h2>
+            <p><strong>Associate Professor of Machine Learning and Artificial Intelligence</strong><br>
+            University of Canberra, Australia (July 2023 - Present)</p>
+            <ul>
+                <li>Conducting research in Computer Vision, Pattern Recognition, Machine Learning, and Artificial Intelligence.</li>
+                <li>Training the next generation of computer scientists.</li>
+                <li>Operating $5.8M of externally funded projects for the period of 2022 to 2025.</li>
+                <li>Setting the vision, strategic direction, and technical agenda of the projects.</li>
+                <li>Managing day-to-day operations including research, teaching, and community services.</li>
+                <li>Evaluating technical capabilities for potential partnerships and joint ventures.</li>
+                <li>Promoting a rewarding, innovative, enthusiastic, open-minded, and collaborative culture.</li>
+            </ul>
+        </section>
+        <section id="employment-history">
+            <h2>Employment History</h2>
+            <ul>
+                <li>
+                    <strong>Assistant Professor</strong><br>
+                    The University of Canberra, Australia (October 2019 - June 2023)<br>
+                    Conducted research, taught, and supervised various undergraduate and postgraduate students.
+                </li>
+                <li>
+                    <strong>Research Fellow</strong><br>
+                    Australian National University, Australia (March 2017 - September 2019)<br>
+                    Focused on developing an automated system for monitoring and controlling the risks of railway suicide.
+                </li>
+                <li>
+                    <strong>Research Scientist</strong><br>
+                    Seeing Machines Ltd., Australia (October 2014 - February 2017)<br>
+                    Conducted extensive research in computer vision and machine learning, developed algorithms for top-tier companies, and contributed to projects such as fatigue and distraction detection, driver attention analysis, face tracking and alignment, gaze and eye tracking, and face recognition.
+                </li>
+            </ul>
+        </section>
+        <section id="research-statement">
+            <h2>Brief Research Statement</h2>
+            <p>As a dedicated AI researcher, I strive to advance human-object interaction in complex environments. With a decade of experience, including roles at the University of Canberra and the Australian National University, I've made a significant impact in "Human Activity Recognition," publishing 37 papers in top-tier avenues. Actively contributing to conferences and journals, I've secured over $A5.8M in research funding in the last two years, solidifying my position as a top-tier researcher with a focus on computational behavior analysis, aiming to contribute to the transformative potential of AI.</p>
+        </section>
+        <section id="grants">
+            <h2>Grants</h2>
+            <ul>
+                <li>
+                    <strong>Advanced Rider Assistance Systems for Improved Road Safety of Motorcyclists</strong><br>
+                    External Fund: AUD 5,654,275, Cooperative Research Centres Program (2023-2025)<br>
+                    Investigators: Ibrahim Radwan, Roland Goecke, Karam Sallam
+                </li>
+                <li>
+                    <strong>GOTERRA PhD Scholarship in Robotics</strong><br>
+                    External Fund: AUD 112,000, GOTERRA PTY LTD (2023-2026)<br>
+                    Investigators: Damith Herath, Ram Subramanian, Ibrahim Radwan, Roland Goecke
+                </li>
+                <li>
+                    <strong>Using Aerial Imagery and Computer Learning to Detect Lignum on the Floodplain</strong><br>
+                    External Fund: AUD 65,453.45, Mallee Catchment Management Authority (2022)<br>
+                    Investigators: Will Higgisson, Alica Tschierchke, Ibrahim Radwan, Duanne White, Fiona Dyer
+                </li>
+                <li>
+                    <strong>Vicon Vero Motion Capture System</strong><br>
+                    Internal Fund: AUD 79,123.00, University of Canberra (2021)
+                </li>
+                <li>
+                    <strong>Dual Brite NIIRS System</strong><br>
+                    Internal Fund: AUD 95,491.00, University of Canberra (2020-2021)
+                </li>
+                <li>
+                    <strong>In-kind Hardware Grant for Academics from Nvidia</strong><br>
+                    (2017)
+                </li>
+                <li>
+                    <strong>Research Paper Nominated for Best Paper Award at International Conference of Multimedia and Expo, ICME2012</strong><br>
+                    (2012)
+                </li>
+                <li>
+                    <strong>W J Weeden Postgraduate Research Scholarship, University of Canberra, Australia</strong><br>
+                    (2011-2014)
+                </li>
+                <li>
+                    <strong>First Honour Award for Bachelor's in Computer Science, Zagazig University</strong>
+                </li>
+            </ul>
+        </section>
+        <section id="publications">
+            <h2>Research Publications</h2>
+            <ul>
+                <li>
+                    Hassanin, Mohammed et al. "Visual attention methods in deep learning: An in-depth survey." Information Fusion 108 (2024): 102417.
+                </li>
+                <li>
+                    Hassanin, Mohammed et al. "Learning discriminative representations for multi-label image recognition." Journal of Visual Communication and Image Representation 83 (2022): 103448.
+                </li>
+                <li>
+                    Alsherbiny, Muhammad A et al. "Trustworthy Deep Neural Network for Inferring Anticancer Synergistic Combinations." IEEE Journal of Biomedical and Health Informatics 27.4 (2021): 1691-1700.
+                </li>
+                <li>
+                    Alsherbiny, Muhammad A et al. "Metabolomic identification of anticancer metabolites of Australian propolis and proteomic elucidation of its synergistic mechanisms with doxorubicin in the MCF7 cells." International Journal of Molecular Sciences 22.15 (2021): 8104.
+                </li>
+                <li>
+                    Radwan, Ibrahim et al. "Leveraging the power of segmentation, segmentation and 3D convolutional neural networks for action recognition in depth videos." IEEE Transactions on Multimedia (2017).
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Ibrahim Radwan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
